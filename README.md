@@ -220,7 +220,7 @@
 
 
 
-!\[](Screenshots/01\_Subsystem.png)
+![Подсистема](./Screenshots/01_Subsystem.png)
 
 
 
