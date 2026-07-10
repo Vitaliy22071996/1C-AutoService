@@ -232,7 +232,7 @@
 
 
 
-!\[](Screenshots/02\_ConfigurationTree.png)
+![Структура конфигурации](./Screenshots/02_ConfigurationTree.png)
 
 
 
@@ -244,7 +244,7 @@
 
 
 
-!\[](Screenshots/03\_RepairDocument.png)
+![Документ Ремонт автомобиля](./Screenshots/03_RepairDocument.png)
 
 
 
@@ -256,7 +256,7 @@
 
 
 
-!\[](Screenshots/04\_SetPrices.png)
+![Обработка установки цен](./Screenshots/04_SetPrices.png)
 
 
 
@@ -268,7 +268,7 @@
 
 
 
-!\[](Screenshots/05\_CashRegisterMovements.png)
+![Движения регистра денежных средств](./Screenshots/05_CashRegisterMovements.png)
 
 
 
@@ -280,7 +280,7 @@
 
 
 
-!\[](Screenshots/06\_RepairReport.png)
+![Отчет Выполненные ремонты](./Screenshots/06_RepairReport.png)
 
 
 
@@ -292,7 +292,7 @@
 
 
 
-!\[](Screenshots/07\_CashReport.png)
+![Анализ движения денежных средств](./Screenshots/07_CashReport.png)
 
 
 
